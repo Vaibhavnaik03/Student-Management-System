@@ -1,0 +1,17 @@
+
+Student Management System
+
+Student ID: 101
+Name: Rahul Sharma
+Department: Computer Engineering
+Year: Second Year
+
+Student ID: 102
+Name: Priya Patil
+Department: Information Technology
+Year: Second Year
+
+Student ID: 103
+Name: Amit Verma
+Department: Artificial Intelligence
+Year: Third Year
