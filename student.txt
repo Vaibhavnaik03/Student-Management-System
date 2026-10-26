@@ -15,3 +15,14 @@ Student ID: 103
 Name: Amit Verma
 Department: Artificial Intelligence
 Year: Third Year
+
+Student ID: 104
+Name: Sneha Joshi
+Department: Computer Engineering
+Year: Third Year
+
+Student ID: 105
+Name: Karan Mehta
+Department: Information Technology
+Year: Third Year
+
